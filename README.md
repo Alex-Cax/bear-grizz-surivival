@@ -27,7 +27,7 @@ I am thinking about of to do some expansion for this proyectd, adding more funci
 
 ## 4. Author
 
-ING. Alexander Castañeda (AlexCax)
+Alexander Castañeda (AlexCax)
 
 
 ## 5. Colaborator
